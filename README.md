@@ -11,7 +11,7 @@
 
 ### Lean Canvas
 
-![[VK.png]]
+![Lean Canvas](attachments/VK.png)
 
 ## Практическое задание №2
 
@@ -384,11 +384,11 @@ JSON
 
 ### Level 1
 
-![[ONnLS1dIIv.png]]
+![C4 Level 1](attachments/ONnLS1dIIv.png)
 
 ### Level 2
 
-![[gJrgr1LlXY.png]]
+![C4 Level 2](attachments/gJrgr1LlXY.png)
 
 ### Выбор и обоснование стека
 
